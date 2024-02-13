@@ -1,0 +1,12 @@
+body {
+    font-family: system-ui;
+    background: #FF7F50;
+    color: #FFEFD5;
+    text-align: center;
+  }
+  h2 {
+    color: #FFD700;
+  }
+  p {
+    color: #FFD700; 
+  }
